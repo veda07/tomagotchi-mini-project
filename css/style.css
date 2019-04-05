@@ -1,0 +1,24 @@
+body {
+	background: url("https://i.pinimg.com/originals/17/80/58/17805850be4fa2c0716c47aabc553b87.jpg")
+
+}
+
+.Tomagotchi{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+
+}
+
+
+
+
+.stats {
+	width: 20%;
+	height: 50px;
+	text-align: center;
+}
+.actions {
+	margin-top: 20px;
+
+}
